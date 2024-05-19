@@ -9,7 +9,7 @@
 * Name: Rajarshi Chakraborty Student ID: 127985232  Date: 19/05/2024
 *
 ********************************************************************************/
-.
+
 
 servVerbs = ["GET","GET","GET","POST","GET","POST"];
 servPaths = ["/","/about","/contact","/login","/panel","/logout"];
